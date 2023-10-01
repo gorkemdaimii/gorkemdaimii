@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding,music but most of coding.
 - 🌱 I’m currently learning english language,java and other coding languages.
 - 💞️ I’m looking to collaborate on my new project.
-- 📫 How to reach me ...
+- 📫 How to reach me? Sent me a e-mail demireldaimi@gmail.com
 
 <!---
 gorkemdaimii/gorkemdaimii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
