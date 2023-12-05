@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @gorkemdaimii
 - 👀 I’m interested in coding,music but most of coding.
 - 🌱 I’m currently learning english language,java and other coding languages.
-- 💞️ I’m looking to collaborate on my new project.
+- 💨 I'use AI technology's
+- 💞️ I'm looking to collaborate on my new project.
 - 📫 How to reach me? Send me e-mail demireldaimi@gmail.com
 
 <!---
